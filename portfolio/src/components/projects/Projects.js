@@ -3,7 +3,7 @@ import ProjectCard from './ProjectsCard';
 import './Projects.css';
 import littleLemon from './LittleLemon.jpg'
 import todo from './To-do.jpg'
-import potfolio from './portfolio.png'
+import potfolio from './portfolio.jpg'
 const ProjectsPage = () => {
   const projects = [
     {
