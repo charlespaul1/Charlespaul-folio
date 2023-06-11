@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/charlespaul-folio/static/css/main.797eda3f.css",
+    "main.js": "/charlespaul-folio/static/js/main.e4f564f7.js",
+    "static/media/pic.jpg": "/charlespaul-folio/static/media/pic.432da81f7276c186e658.jpg",
+    "static/media/My-resume.pdf": "/charlespaul-folio/static/media/My-resume.dc75aeaab715e6c72930.pdf",
+    "static/media/LittleLemon.jpg": "/charlespaul-folio/static/media/LittleLemon.f687696a0d4462c1e208.jpg",
+    "static/media/portfolio.jpg": "/charlespaul-folio/static/media/portfolio.bb894921059c1db9668a.jpg",
+    "static/media/To-do.jpg": "/charlespaul-folio/static/media/To-do.92b83ce6bbe6e5b476d6.jpg",
+    "static/media/ui.png": "/charlespaul-folio/static/media/ui.60383096e5b2e7bdcd07.png",
+    "static/media/window.png": "/charlespaul-folio/static/media/window.04a3a2f0b7324621a8dc.png",
+    "index.html": "/charlespaul-folio/index.html",
+    "main.797eda3f.css.map": "/charlespaul-folio/static/css/main.797eda3f.css.map",
+    "main.e4f564f7.js.map": "/charlespaul-folio/static/js/main.e4f564f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797eda3f.css",
+    "static/js/main.e4f564f7.js"
+  ]
+}
